@@ -158,7 +158,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  ▶  NOW BUILDING                            ●────────  ║
+║  ▶  NOW BUILDING                             ●────────  ║
 ║                                                          ║
 ║  🔴 LIVE  Voice of Dharma Foundation Website            ║
 ║           ├─ 💳 Payment Integration    [pending]        ║
@@ -167,7 +167,7 @@
 ║           └─ 🌐 Domain & Legal         [in progress]    ║
 ║                                                          ║
 ║  ⏭  QUEUED                                              ║
-║  → ResuSloth v2 — smarter ATS + cover letter gen        ║
+║  → ResuSloth v2 — smarter ATS + cover letter gen         ║
 ║  → Data Analytics Case Studies Portfolio                 ║
 ║  → Personal Portfolio Enhancements                       ║
 ╚══════════════════════════════════════════════════════════╝
@@ -196,19 +196,19 @@
 |---|---|
 | AI tool that evaluates resume vs job description match with ATS scoring, skill gap detection & actionable improvement suggestions | Community-driven eCommerce platform for baby & kids products with AI chatbot, CuddleClips & parenting community |
 | `JavaScript` `AI APIs` `HTML` `CSS` | `FlutterFlow` `Supabase` `AI Chatbot` |
-| [🔗 Repo](https://github.com/RagulM-69/ResuSloth) · [🌐 Demo](#) | [🔗 Repo](https://github.com/RagulM-69/cuddle-cart) |
+| [🔗 Repo](https://github.com/RagulM-69/ResuSloth) · [🌐 Demo](https://resu-sloth.vercel.app/) | [🔗 Repo](https://github.com/RagulM-69/cuddle-cart) [🌐 Demo](https://pookie-project-fpeyh4.flutterflow.app/finalHomePage)|
 
 | 💬 LivelyChat — Real-Time Chat | 🤖 SlothSummarizer — AI Summarizer |
 |---|---|
 | Modern real-time chat platform with WebSockets for instant message delivery and a lightweight responsive interface | Lightweight AI-powered tool that converts long articles into clear, concise summaries instantly |
 | `JavaScript` `Node.js` `WebSockets` `HTML` `CSS` | `JavaScript` `AI APIs` `HTML` `CSS` |
-| [🔗 Repo](https://github.com/RagulM-69/LivelyChat) | [🔗 Repo](https://github.com/RagulM-69/SlothSummarizer) |
+| [🔗 Repo](https://github.com/RagulM-69/LivelyChat) · [🌐 Demo](https://likelychat-1.onrender.com/) | [🔗 Repo](https://github.com/RagulM-69/SlothSummarizer) · [🌐 Demo](https://sloth-summarizer.onrender.com) |
 
 | 🌤️ Interactive Weather App | 🚗 V2V Communication System |
 |---|---|
 | Responsive weather app with real-time data, dynamic UI & city-based forecasts via Weather API integration | Hardware-based vehicle-to-vehicle messaging using microcontrollers & wireless comm for enhanced road safety |
 | `JavaScript` `Weather API` `HTML` `CSS` | `Microcontrollers` `Wireless Comm` `Embedded Systems` |
-| [🔗 Repo](https://github.com/RagulM-69/weather-app) | [🔗 Repo](https://github.com/RagulM-69/v2v-system) |
+| [🔗 Repo](https://github.com/RagulM-69/weather-app) · [🌐 Demo](https://weather-app-69.vercel.app/) | 
 
 </div>
 
