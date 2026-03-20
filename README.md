@@ -80,7 +80,7 @@
 ⚡ **Motto**
 > *"Build, experiment, and improve continuously."*
 
-    </td>
+    
   </tr>
 </table>
 
