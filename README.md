@@ -181,7 +181,7 @@
 
 ### 🔴 Client Work — In Development
 
-| 🙏 Voice of Dharma Foundation |
+| 🙏 Voice of Dharma Foundation | [🌐 Demo](https://voice-of-dharma-mvp.vercel.app/)
 |---|
 | A full-stack organizational website built for a client — featuring donations/payments, merchandise showcase, deeds & contact sections |
 | `React` `Supabase` `Payment Gateway` `Node.js` |
