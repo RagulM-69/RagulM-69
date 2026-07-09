@@ -75,7 +75,7 @@
 - 🔨 **6+** Projects Built
 - 🧰 **15+** Technologies Explored
 - 🎓 **3+** Years Learning Programming
-- 🏆 **9** Global Certifications
+- 🏆 **10** Global Certifications
 
 ⚡ **Motto**
 > *"Build, experiment, and improve continuously."*
