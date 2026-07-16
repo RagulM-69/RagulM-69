@@ -45,7 +45,7 @@
 
 🎓 **Education**
 - B.E. Electronics & Communication Engineering
-- SNS College of Technology, Coimbatore
+- SNS College of Engineering, Coimbatore
 - Current CGPA: **8.5 / 10** · Batch: 2023–2027
 
 🚀 **Currently Building**
