@@ -72,7 +72,7 @@
 - 🌍 Contribute to open source meaningfully
 
 📊 **By The Numbers**
-- 🔨 **6+** Projects Built
+- 🔨 **10+** Projects Built
 - 🧰 **15+** Technologies Explored
 - 🎓 **3+** Years Learning Programming
 - 🏆 **10** Global Certifications
